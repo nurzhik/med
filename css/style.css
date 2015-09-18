@@ -723,3 +723,28 @@ color:#d70c3b;
     float: right;
 }
 /*end*/
+.error_item {
+    text-align: center;
+    font-size: 194px;
+    font-family: "Calibri-bold";
+    margin-bottom: 20px;
+}
+.error_item_title {
+    font-size: 37px;
+    font-family: "Calibri";
+}
+.error_item_des {
+    text-align: center;
+    font-size: 22px;
+}
+.error_item_des p {
+    font-size: 16px;
+    margin-top: 20px;
+}
+.error_item_des p a {
+    color: #db103f;
+    text-decoration: underline;
+}
+.error_item_des p a:hover {
+    text-decoration: none;
+}
