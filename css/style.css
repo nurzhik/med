@@ -920,3 +920,40 @@ color:#d70c3b;
     border: none;
     overflow: hidden;
 }
+/*biblioteka*/
+.content_vnutrenne.bibliotek ul li {
+    float: left;
+    width: 366px;
+    margin-right: 38px;
+    margin-bottom: 38px;
+}
+.content_vnutrenne.bibliotek ul li:nth-child(2n) {
+    margin-right: 0px;
+}
+.item_biblioteka {
+    text-align: center;
+}
+.item_biblioteka_title {
+    font-family: "Calibri-Bold";
+    font-size: 19px;
+    margin-bottom: 5px;
+}
+.item_biblioteka_date {
+    font-size: 16px;
+}
+.item_biblioteka a {
+    margin-top: 10px;
+    background-color: #d70c3b;
+    line-height: 32px;
+    text-align: center;
+    border-radius: 6px;
+    color: #fff;
+    display: inline-block;
+    padding: 0px 8px;
+    border-bottom: 1px solid #857F7F;
+}
+.item_biblioteka a:hover {
+    text-decoration: underline;
+    background-color: #B21438;
+}
+/*end biblioteka*/
