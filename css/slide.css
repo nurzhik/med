@@ -154,7 +154,9 @@
 }
 .join_the_community:hover{
 	text-decoration:underline;
+	 background-color: #C40330;
 }
+
 .slick-dots {
     position: absolute;
     bottom: 46px;
