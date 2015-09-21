@@ -863,6 +863,22 @@ color:#d70c3b;
 .nav_cab ul li:first-child:before{
 	content: " ";
 }
+.otpravit_photo button {
+    background-color: #4E759B;
+    line-height: 30px;
+    border: none;
+    cursor: pointer;
+    color: #fff;
+    border-radius: 6px;
+    border-bottom: 1px solid #857F7F;
+    width: 125px;
+    font-size: 16px;
+    outline: none;
+}
+.otpravit_photo button:hover {
+    background-color: #3A546E;
+    text-decoration: underline;
+}
 /*cabinet end*/
 
 .type_file {
